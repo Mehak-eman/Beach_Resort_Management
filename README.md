@@ -10,7 +10,7 @@ The project also includes a dedicated Admin Panel for managing users, resorts, b
 ![Home Screen](screenshots/Home Screen.jpeg)
 
 ### Resort Details
-![Resort Details](screenshots/Resort_Details.jpeg)
+![Resort Details](screenshots/Resort Details.jpeg)
 
 ### Booking
 ![Booking Screen](screenshots/Booking Screen.jpeg)
