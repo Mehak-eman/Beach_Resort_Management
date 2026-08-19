@@ -21,6 +21,29 @@ The project also includes a dedicated Admin Panel for managing users, resorts, b
 ### Admin Dashboard
 ![Admin Dashboard](screenshots/Admin Dashboard.jpeg)
 
+
+## 🚀 Installation
+
+1. Clone the repository
+
+git clone YOUR_GITHUB_REPOSITORY_URL
+
+2. Open the project
+
+cd beach_resort_management
+
+3. Install dependencies
+
+flutter pub get
+
+4. Configure Supabase
+
+Add your Supabase project URL and anon key in your project configuration.
+
+5. Run the application
+
+flutter run
+
 ## ✨ Features
 
 ### 👤 User Features
@@ -105,3 +128,16 @@ lib/
 ├── routes/
 ├── search/
 └── config/
+
+## 🔮 Future Improvements
+
+Online payment
+Notifications
+Reviews and ratings
+Advanced booking management
+
+## 👩‍💻 Author
+
+**Mehak Eman**
+
+
