@@ -19,7 +19,7 @@ The project also includes a dedicated Admin Panel for managing users, resorts, b
 ![Favorites Screen](screenshots/Favorites Screen.jpeg)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/Admin_Dashboard.jpeg)
+![Admin Dashboard](screenshots/Admin Dashboard.jpeg)
 
 ## ✨ Features
 
