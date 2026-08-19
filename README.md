@@ -7,19 +7,19 @@ The project also includes a dedicated Admin Panel for managing users, resorts, b
 ## 📱 Project Preview
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/Home Screen.jpeg)
 
 ### Resort Details
-![Resort Details](screenshots/resort_details.png)
+![Resort Details](screenshots/Resort_Details.jpeg)
 
 ### Booking
-![Booking Screen](screenshots/booking.png)
+![Booking Screen](screenshots/Booking Screen.jpeg)
 
 ### Favorites
-![Favorites Screen](screenshots/favorites.png)
+![Favorites Screen](screenshots/Favorites Screen.jpeg)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](screenshots/Admin_Dashboard.jpeg)
 
 ## ✨ Features
 
