@@ -1,17 +1,107 @@
-# beach_resort_management
+# 🏝️ Beach Resort Management & Booking App
 
-A new Flutter project.
+A modern Flutter-based beach resort management and booking application designed to provide users with an easy way to discover resorts, explore rooms, make bookings, manage favorites, and view their booking history.
 
-## Getting Started
+The project also includes a dedicated Admin Panel for managing users, resorts, bookings, and payments.
 
-This project is a starting point for a Flutter application.
+## 📱 Project Preview
 
-A few resources to get you started if this is your first Flutter project:
+### Home Screen
+![Home Screen](screenshots/home.png)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Resort Details
+![Resort Details](screenshots/resort_details.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Booking
+![Booking Screen](screenshots/booking.png)
+
+### Favorites
+![Favorites Screen](screenshots/favorites.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+## ✨ Features
+
+### 👤 User Features
+
+- User Sign Up and Login
+- Forgot Password
+- Browse Resorts
+- Search Resorts
+- Resort Categories
+- Resort Details
+- Room Listing
+- Room Booking
+- Favorite Resorts
+- My Bookings
+- Profile Management
+- Payment Management
+- Notifications
+
+### 👨‍💼 Admin Features
+
+- Admin Login
+- Admin Dashboard
+- Manage Users
+- Manage Resorts
+- Add Resorts
+- Update Resorts
+- Delete Resorts
+- Manage Bookings
+- Approve/Reject Bookings
+- Manage Payments
+- Update Payment Status
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Supabase
+- PostgreSQL
+- Provider
+- MVVM Architecture
+- GoRouter
+- Supabase Authentication
+- CRUD Operations
+- Git & GitHub
+
+## 🏗️ Architecture
+
+The application follows an organized architecture using:
+
+- Models
+- Views / Screens
+- ViewModels
+- Services
+- Repositories
+- Supabase backend
+
+## 🗄️ Backend
+
+Supabase is used for:
+
+- Authentication
+- PostgreSQL database
+- User profiles
+- Resorts
+- Rooms
+- Bookings
+- Favorites
+- Payments
+
+## 📂 Main Modules
+
+```text
+lib/
+├── admin/
+├── authentication/
+├── booking/
+├── category/
+├── favourite/
+├── home/
+├── profile/
+├── rooms/
+├── routes/
+├── search/
+└── config/
